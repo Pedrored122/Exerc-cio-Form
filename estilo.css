@@ -1,0 +1,38 @@
+@charset "UTF=8";
+
+body#corpo {
+    background: url(https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/530714/regular_ebac-logo.png) no-repeat -70px -70px;
+}
+
+header#cabecalho h1 {
+    text-align: center;
+    font-family: Arial,sans-serif;
+    font-weight: bolder;
+    font-style:italic;
+    color: rgba(0,0,0,.8);
+    text-shadow: 1px 2px 5px #606060;
+    margin: 125px auto 0px auto;
+} 
+
+form#formulario {
+    font-family: Arial,sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    margin: 65px auto 0px auto;
+}
+
+label#caixa {
+    margin: 0px 10px 0px -13px ;
+}
+
+label#caixa-email {
+    margin: 0px 10px 0px -13px ;
+}
+
+label#caixa-Nome {
+    margin: 0px 10px 0px -10px ;
+}
+
+button#button {
+    margin: 10px 0px 0px 280px;
+}
